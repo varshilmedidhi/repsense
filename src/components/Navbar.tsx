@@ -18,7 +18,7 @@ const Navbar = () => {
             <ZapIcon className="w-4 h-4 text-primary" />
           </div>
           <span className="text-2xl font-bold font-mono">
-            code<span className="text-primary">flex</span>.ai
+            Rep<span className="text-primary">sense</span>.ai
           </span>
         </Link>
         {/* Navigation */}
